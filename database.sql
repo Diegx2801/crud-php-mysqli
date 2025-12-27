@@ -6,6 +6,8 @@
 -- Tiempo de generación: 27-12-2025 a las 05:46:51
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.1.25
+CREATE DATABASE IF NOT EXISTS proyecto_final;
+USE proyecto_final;
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
